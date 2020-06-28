@@ -90,6 +90,10 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="291" y="88" key="CommitChangelistDialog2" timestamp="1593386167048">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="291" y="88" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1593386167048" />
     <state width="1259" height="263" key="GridCell.Tab.0.bottom" timestamp="1593381802975">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
